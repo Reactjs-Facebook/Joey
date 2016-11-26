@@ -10,5 +10,8 @@ var Component = React.createClass({
     return <div>Hello {this.props.name}</div>;
   }
 });
+ReactDOM.render(<Component name="John" />, document.body);
+
+
 
 
