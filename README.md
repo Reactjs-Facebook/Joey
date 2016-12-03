@@ -3,6 +3,7 @@
  * [CodePen](http://codepen.io/vuchina/pen/yVXKgJ)
  * [Cheatsheet](http://ricostacruz.com/cheatsheets/react.html)
  * [Bootstrap](http://getbootstrap.com/components/#thumbnails)
+ * [React Docs](https://facebook.github.io/react/docs/introducing-jsx.html)
  
 # Cheatsheet
 
